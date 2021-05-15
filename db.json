@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Doctors Appointment",
+      "day": "Feb 5th at 2:30pm",
+      "reminder": true
+    },
+    {
+      "text": "Take test",
+      "day": "Sunday",
+      "reminder": true,
+      "id": 2
+    },
+    {
+      "text": "Springboot ",
+      "day": "Friday 12 May 2021",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}
